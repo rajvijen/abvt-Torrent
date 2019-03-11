@@ -1,0 +1,23 @@
+{
+  "name": "abvt-Torrent",
+  "version": "1.0.0",
+  "description": "- This is a bit-torrent client, an extension of bit-Torrent implemented in nodejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rajvijen/abvt-Torrent.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rajvijen/abvt-Torrent/issues"
+  },
+  "homepage": "https://github.com/rajvijen/abvt-Torrent#readme",
+  "dependencies": {
+    "bencode": "^2.0.1"
+  }
+}
